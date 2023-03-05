@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Karat
+ *
+ */
+module Git {
+}
